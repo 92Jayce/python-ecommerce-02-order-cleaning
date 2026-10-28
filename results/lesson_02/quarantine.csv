@@ -1,0 +1,13 @@
+﻿order_id,session_id,customer_id,order_date,channel,device,status,paid_total_cents,refund_total_cents,fulfilment_fee_cents,paid_yuan_raw,parsed_date,parsed_yuan,issue
+O000001,S000006,C0141,错误日期,social,mobile,paid,34839,0,800,¥348.39,,348.39,bad_date
+O000002,S000010,C0006,错误日期,paid_search,mobile,paid,4540,0,800,¥45.40,,45.4,bad_date
+O000003,S000017,C0817,错误日期,organic,mobile,paid,18395,0,800,¥183.95,,183.95,bad_date
+O000004,S000022,C1177,错误日期,paid_search,mobile,paid,11729,0,800,¥117.29,,117.29,bad_date
+O000005,S000029,C0204,错误日期,social,mobile,cancelled,0,0,0,¥0.00,,0.0,bad_date
+O000006,S000033,C0572,错误日期,paid_search,desktop,paid,15073,0,800,¥150.73,,150.73,bad_date
+O000007,S000040,C0979,2025-04-28 21:34:35,social,mobile,paid,18465,12310,800,待核对,2025-04-28 21:34:35,,bad_amount
+O000008,S000041,C0193,2025-08-05 13:11:59,affiliate,desktop,cancelled,0,0,0,待核对,2025-08-05 13:11:59,,bad_amount
+O000009,S000043,C0496,2025-12-28 04:40:11,organic,mobile,paid,31805,0,800,待核对,2025-12-28 04:40:11,,bad_amount
+O000010,S000047,C0095,2025-10-29 03:35:38,organic,mobile,paid,15436,0,800,待核对,2025-10-29 03:35:38,,bad_amount
+O000011,S000054,C0913,2025-06-14 19:32:21,organic,mobile,paid,16461,0,800,-100.00,2025-06-14 19:32:21,-100.0,bad_amount
+O000012,S000060,C0635,2025-01-02 11:57:04,affiliate,mobile,paid,3967,0,800,-100.00,2025-01-02 11:57:04,-100.0,bad_amount
